@@ -12,6 +12,7 @@ A Cantonese one-pot rice dish that steams jasmine rice with Chinese sausage, shi
 | Total Time | 55 minutes |
 | Servings | 4 |
 | Difficulty | Medium |
+| Spice Level | 🌶️ (mild; no chili in the base recipe) |
 | Tags | Cantonese, one-pot, lunch, shareable |
 
 ### Ingredients:
