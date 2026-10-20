@@ -68,6 +68,29 @@ A pot of simmering broth sits in the middle of the table, and everyone cooks the
 11. When everyone is nearly full, cook the udon in the mild side for 2 to 3 minutes to finish the meal.
 12. Turn off the burner before clearing the table, and let the pot cool before moving it.
 
+### Beverage pairing:
+
+**Suanmeitang (酸梅汤), chilled sour plum drink.** A tart, lightly sweet drink brewed from smoked plums, hawthorn, and rock sugar, then served cold. The sourness cuts through the fatty beef and the rich sesame sauce, and a cold glass gives your mouth a break from the spicy side of the pot. It has no caffeine or alcohol, so everyone at the table can drink it. ([Wikipedia: Suanmeitang](https://en.wikipedia.org/wiki/Suanmeitang))
+
+Makes about 8 cups (2 L), enough for 6.
+
+- [ ] 1 1/2 oz (40 g) smoked dried plums (wumei, 乌梅)
+- [ ] 1 oz (30 g) dried hawthorn slices (shanzha, 山楂)
+- [ ] 1 tbsp (5 g) dried licorice root slices (gancao, 甘草)
+- [ ] 1 tbsp dried roselle (洛神花, optional, for a deeper red color)
+- [ ] 3/4 cup (150 g) rock sugar, or to taste
+- [ ] 1 tbsp dried osmanthus flowers (桂花, optional)
+- [ ] 10 cups (2.4 L) water
+
+1. Make it the night before, or at least 3 hours before dinner, so it has time to chill.
+2. Rinse the plums, hawthorn, licorice, and roselle, then soak them in the water for 30 minutes.
+3. Bring the pot to a boil, then cover and simmer on low heat for 40 minutes.
+4. Stir in the rock sugar until it dissolves. Taste and add more sugar if it is too sour.
+5. Turn off the heat, add the osmanthus, and let it steep for 5 minutes.
+6. Strain into a pitcher, let it cool, and refrigerate. Serve over ice.
+
+**Shortcut:** Asian grocery stores such as 99 Ranch sell pre-mixed suanmeitang packets (all the dried ingredients in one bag) and bottled versions if you don't have time to brew it.
+
 ### Notes:
 
 - **No divided pot?** Two regular pots on two burners work fine. You can also make the whole pot mild and put chili oil on the sauce bar for the people who want heat.
