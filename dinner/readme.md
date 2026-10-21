@@ -13,6 +13,7 @@ A pot of simmering broth sits in the middle of the table, and everyone cooks the
 | Total Time | 1 hour 45 minutes |
 | Servings | 6 |
 | Difficulty | Easy |
+| Spice Level | 🌶️🌶️🌶️ (3/3; hottest, with a mild broth option) |
 | Tags | Chinese, group meal, spicy option, customizable, winter |
 
 ### Ingredients:

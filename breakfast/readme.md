@@ -15,6 +15,7 @@ A thin mung bean crepe cooked with an egg, brushed with savory sauces, and folde
 | Total Time | 30 minutes |
 | Servings | 4 |
 | Difficulty | Medium |
+| Spice Level | 0–3/3 🌶️ (adjustable with optional chili sauce) |
 | Tags | street food, Chinese, vegetarian, savory breakfast |
 
 ### Ingredients:
