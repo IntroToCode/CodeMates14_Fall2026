@@ -1,7 +1,7 @@
 # Cantonese Claypot Rice with Chinese Sausage and Shiitake (煲仔饭)
 
 ## Description
-A Cantonese one-pot rice dish that steams jasmine rice with Chinese sausage, shiitake mushrooms, and ginger, then finishes with a savory soy drizzle and a crisp rice crust. Blanched Chinese greens can be served alongside.
+A Cantonese one-pot rice dish that steams jasmine rice with Chinese sausage, shiitake mushrooms, and ginger, then finishes with a savory soy drizzle and a crisp rice crust. Served with blanched choy sum, a tender-crisp Chinese green.
 
 ## Stats
 
@@ -30,7 +30,7 @@ A Cantonese one-pot rice dish that steams jasmine rice with Chinese sausage, shi
 - [ ] 1 teaspoon (4 g) sugar
 - [ ] 2 tablespoons (30 mL) water
 - [ ] 2 scallions, thinly sliced
-- [ ] Optional: 6 ounces (170 g) choy sum or gai lan, blanched for serving
+- [ ] 6 ounces (170 g) choy sum, rinsed and trimmed
 
 ### Steps for preparation:
 
@@ -39,8 +39,10 @@ A Cantonese one-pot rice dish that steams jasmine rice with Chinese sausage, shi
 3. Use a 2.5–3-quart (2.4–2.8 L) clay pot; if yours is smaller, divide the ingredients between two pots and cook in batches. Add the drained rice, 2 1/4 cups fresh water, and 2 teaspoons neutral oil. Cover and bring to a gentle boil over medium-low heat. Reduce the heat to low and cook until most of the water is absorbed and the surface looks nearly dry, about 10–12 minutes.
 4. Arrange the sausage, mushrooms, and ginger over the rice. Cover and cook on low for 10–12 minutes, until the rice is tender and the mushrooms are cooked through. If the pot becomes dry before the rice is tender, carefully add 1–2 tablespoons hot water around the edge.
 5. Drizzle 1 tablespoon neutral oil around the inside edge of the pot. Cover and cook over medium heat for 2–3 minutes, carefully rotating the pot with heatproof mitts, until you hear crackling and a crisp crust forms on the bottom.
-6. Turn off the heat and let the covered pot rest for 10 minutes. Drizzle the sauce over the rice and scatter the scallions on top.
-7. Serve hot from the pot, scraping up some of the browned rice crust with each portion. Serve with the blanched greens, if using.
+6. Turn off the heat and let the covered pot rest for 10 minutes.
+7. While the rice rests, bring a separate pot of water to a boil. Blanch the choy sum for 1–2 minutes, until bright green and tender-crisp, then drain.
+8. Drizzle the sauce over the rice and scatter the scallions on top.
+9. Serve hot from the pot, scraping up some of the browned rice crust with each portion, with the blanched choy sum alongside.
 
 ### Notes:
 
