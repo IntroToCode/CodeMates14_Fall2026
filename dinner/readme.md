@@ -69,6 +69,26 @@ A pot of simmering broth sits in the middle of the table, and everyone cooks the
 11. When everyone is nearly full, cook the udon in the mild side for 2 to 3 minutes to finish the meal.
 12. Turn off the burner before clearing the table, and let the pot cool before moving it.
 
+### Beverage pairing:
+
+**Chilled coconut milk drink (椰汁).** Lightly sweet and creamy, served cold as a cooling contrast to the hot pot’s spicy broth.
+
+Makes 6 servings (about 6 cups / 1.4 L).
+
+- [ ] 2 cups (480 mL) unsweetened coconut milk
+- [ ] 4 cups (950 mL) cold water
+- [ ] 2 tablespoons (25 g) sugar, or to taste (use less or omit if the coconut milk is sweetened)
+- [ ] Pinch of salt (optional)
+- [ ] Ice, for serving
+
+1. Whisk the coconut milk and cold water together until smooth. Stir in the sugar and optional salt.
+2. Taste and adjust the sweetness. Refrigerate until thoroughly chilled, at least 2 hours.
+3. Stir before serving and pour over ice.
+
+**Shortcut:** Use about 6 cups of chilled, ready-to-drink coconut beverage (椰汁) instead; skip the water and sugar.
+
+**Proposed by:** @gloriazhangcx-hub
+
 ### Notes:
 
 - **No divided pot?** Two regular pots on two burners work fine. You can also make the whole pot mild and put chili oil on the sauce bar for the people who want heat.
